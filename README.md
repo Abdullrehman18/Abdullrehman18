@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdullrehman18
+- 👋 Hi, I’m Abdullrehman
 - 👀 I’m interested in Making New Website Projects(HTML/CSS)
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Web Development 
