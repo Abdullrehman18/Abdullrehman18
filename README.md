@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me : follow up me on my intagram and send A "WEB DEVELOPER" text
-- 😄 Pronouns: NO
 - ⚡ Fun fact: I am a Friendly Guy, LOL
 
 <!---
