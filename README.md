@@ -1,6 +1,6 @@
 - Hi, I’m Abdullrehman
 - I’m interested in Making New Website Projects(HTML/CSS)
-- I’m currently learning Java Script
+- I’m currently learning python
 - I’m looking to collaborate on Web Development 
 - How to reach me : follow up me on my intagram and send A "WEB DEVELOPER" text
 - Fun fact: I am a Friendly Guy, LOL
